@@ -1,0 +1,14 @@
+nav 
+{
+    display: flex;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    gap: 1rem;
+    float: right;
+    border: 1px solid black;
+    padding: 2rem;
+    background-color: white;
+    
+}

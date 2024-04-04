@@ -1,0 +1,20 @@
+.card
+{
+    width: fit-content;
+    padding: 10px;
+    height: fit-content;
+    border-radius: 3px;
+    background-color: rgb(196, 193, 193);
+    text-align: center;
+}
+.card_image-box
+{
+    border-radius: 10px;
+    width: fit-content;
+    height: fit-content;
+}
+.card_image-box_img
+{
+    object-fit: fill;
+    border-radius: 3px;
+}
