@@ -24,7 +24,7 @@ export default function BuyBtn ({prize, item, btnState, itemToDelete}: Props){
             setSelectedItems(selectedItems - 1)
             setSelectedItemsPrize(selectedItemsPrize - prize)
             delete itemsInBasket[itemToDelete]
-            console.log(itemsInBasket)
+            
         }
         
         
